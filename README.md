@@ -8,7 +8,7 @@ I have been developing on RAGEMP for about 5 years, and started working on Unity
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [kirillfoxyt@gmail.com](mailto:kirillfoxyt@gmail.com)
-* 🚀  I'm currently working on [RSRP-RAGEMP](http://rsrp-v.ru)
+* 🚀  I'm currently working on [Project TestSever RAGEMP]
 * 🧠  I'm learning vueJS
 * 🤝  I'm open to collaborating on UNITY
 
