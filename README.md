@@ -6,7 +6,6 @@ I'm C# Developer in RAGEMP, UNITY and UNREAL ENGINE
 
 I have been developing on RAGEMP for about 5 years, and started working on Unity 2 years ago
 
-* 🌍  I'm based in Russia
 * ✉️  You can contact me at [kirillfoxyt@gmail.com](mailto:kirillfoxyt@gmail.com)
 * 🚀  I'm currently working on [Project TestSever RAGEMP]
 * 🧠  I'm learning vueJS
